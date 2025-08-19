@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="920"
+   height="711"
+   viewBox="0 0 920 711"
+   sodipodi:docname="YouTubeLogo.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 355.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="920 : 355.5 : 1"
+       inkscape:persp3d-origin="460 : 237 : 1"
+       id="perspective827" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4670">
+      <stop
+         style="stop-color:#fb5253;stop-opacity:1"
+         offset="0"
+         id="stop4666" />
+      <stop
+         style="stop-color:#00b8b1;stop-opacity:1"
+         offset="1"
+         id="stop4668" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4670"
+       id="linearGradient1731"
+       gradientUnits="userSpaceOnUse"
+       x1="-152.32104"
+       y1="-261.77066"
+       x2="209.39561"
+       y2="-455.12067"
+       gradientTransform="matrix(1.3372593,0,0,1.3372593,436.42476,890.61768)" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1861">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1851" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1853" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="6.25"
+         result="blur"
+         id="feGaussianBlur1855" />
+      <feOffset
+         dx="-8.9"
+         dy="10.9"
+         result="offset"
+         id="feOffset1857" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite1859" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix1863" />
+      <feFlood
+         id="feFlood1865"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite1867"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur1869"
+         in="composite1"
+         stdDeviation="6.2"
+         result="blur" />
+      <feOffset
+         id="feOffset1871"
+         dx="-8.9"
+         dy="10.9"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite1873"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.33192686"
+     inkscape:cx="-679.73738"
+     inkscape:cy="484.6631"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     id="g1877"
+     transform="matrix(1.089664,0,0,1.089664,-88.640869,-26.626261)"
+     inkscape:export-xdpi="73.417122"
+     inkscape:export-ydpi="73.417122">
+    <rect
+       rx="107.76978"
+       ry="135.40248"
+       y="105.00616"
+       x="151.38881"
+       height="491.51083"
+       width="700"
+       id="rect843"
+       style="opacity:1;fill:url(#linearGradient1731);fill-opacity:1;stroke:none;stroke-width:2.76012897;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter1861)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path847"
+       d="m 418.89596,436.45934 189.0874,-97.21447 -188.7314,-98.28276 z"
+       style="opacity:1;vector-effect:none;fill:#1e1e1e;fill-opacity:1;stroke:none;stroke-width:1.33725929;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>
